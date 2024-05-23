@@ -68,7 +68,9 @@ ul li a {
   transition: background 400ms;
 }
 ul li a:hover {
-  background: #364fc7;
+  /*background: #364fc7;*/
+  background: #daa520;
+  color: #000;
 }
 footer {
   font-weight: 400;
